@@ -1,0 +1,15 @@
+certifi
+imutils
+MouseInfo
+numpy
+opencv-python
+Pillow
+psutil
+PyAutoGUI
+PyGetWindow
+PyMsgBox
+pyperclip
+PyRect
+PyScreeze
+PyTweening
+wincertstore
